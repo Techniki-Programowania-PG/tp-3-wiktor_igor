@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeFiles\93378c91334585fa60bfb2032110377d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AE1B7A94-29D5-3665-97D0-D790CE9270D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

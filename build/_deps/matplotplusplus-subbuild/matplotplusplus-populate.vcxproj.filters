@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeFiles\49c2c7de7a533929f25c64ae3d864ca0\matplotplusplus-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeFiles\49c2c7de7a533929f25c64ae3d864ca0\matplotplusplus-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeFiles\49c2c7de7a533929f25c64ae3d864ca0\matplotplusplus-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeFiles\49c2c7de7a533929f25c64ae3d864ca0\matplotplusplus-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeFiles\49c2c7de7a533929f25c64ae3d864ca0\matplotplusplus-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeFiles\49c2c7de7a533929f25c64ae3d864ca0\matplotplusplus-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeFiles\49c2c7de7a533929f25c64ae3d864ca0\matplotplusplus-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeFiles\49c2c7de7a533929f25c64ae3d864ca0\matplotplusplus-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeFiles\eb626da2a9534f906c4582ad01cc3859\matplotplusplus-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeFiles\93378c91334585fa60bfb2032110377d\matplotplusplus-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\igorp\projekt3\build\_deps\matplotplusplus-subbuild\CMakeFiles\matplotplusplus-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AE1B7A94-29D5-3665-97D0-D790CE9270D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

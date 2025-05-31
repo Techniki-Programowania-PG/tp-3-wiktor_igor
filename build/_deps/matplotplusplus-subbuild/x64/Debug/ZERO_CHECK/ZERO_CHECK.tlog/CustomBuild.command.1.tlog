@@ -1,0 +1,10 @@
+^C:\USERS\IGORP\PROJEKT3\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKEFILES\93378C91334585FA60BFB2032110377D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild -BC:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

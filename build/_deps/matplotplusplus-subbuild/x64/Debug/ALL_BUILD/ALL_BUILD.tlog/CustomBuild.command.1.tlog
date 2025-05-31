@@ -1,0 +1,10 @@
+^C:\USERS\IGORP\PROJEKT3\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild -BC:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild --check-stamp-file C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
