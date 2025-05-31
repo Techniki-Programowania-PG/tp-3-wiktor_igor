@@ -1,0 +1,10 @@
+^C:\USERS\IGORP\PROJEKT3\BUILD\_DEPS\PYBIND11-SUBBUILD\CMAKEFILES\11B9C435529A68BD9D7C38814E64449E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/igorp/projekt3/build/_deps/pybind11-subbuild -BC:/Users/igorp/projekt3/build/_deps/pybind11-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/igorp/projekt3/build/_deps/pybind11-subbuild/pybind11-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

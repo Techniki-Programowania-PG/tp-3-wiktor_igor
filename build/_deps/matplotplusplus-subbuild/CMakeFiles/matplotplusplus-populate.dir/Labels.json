@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/CMakeFiles/matplotplusplus-populate"
+		},
+		{
+			"file" : "C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/CMakeFiles/93378c91334585fa60bfb2032110377d/matplotplusplus-populate.rule"
+		},
+		{
+			"file" : "C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/CMakeFiles/eb626da2a9534f906c4582ad01cc3859/matplotplusplus-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/CMakeFiles/49c2c7de7a533929f25c64ae3d864ca0/matplotplusplus-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/CMakeFiles/49c2c7de7a533929f25c64ae3d864ca0/matplotplusplus-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/CMakeFiles/49c2c7de7a533929f25c64ae3d864ca0/matplotplusplus-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/CMakeFiles/49c2c7de7a533929f25c64ae3d864ca0/matplotplusplus-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/CMakeFiles/49c2c7de7a533929f25c64ae3d864ca0/matplotplusplus-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/CMakeFiles/49c2c7de7a533929f25c64ae3d864ca0/matplotplusplus-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/CMakeFiles/49c2c7de7a533929f25c64ae3d864ca0/matplotplusplus-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/igorp/projekt3/build/_deps/matplotplusplus-subbuild/CMakeFiles/49c2c7de7a533929f25c64ae3d864ca0/matplotplusplus-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"matplotplusplus-populate"
+		],
+		"name" : "matplotplusplus-populate"
+	}
+}
